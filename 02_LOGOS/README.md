@@ -1,1 +1,0 @@
-ARKHÉ MONOS — Logos directory
