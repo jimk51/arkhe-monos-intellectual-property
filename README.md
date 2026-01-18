@@ -3,7 +3,43 @@ ARKHÉ MONOS — Intellectual Property Repository. Conceptual brand, logos, visu
 Add ARKHÉ MONOS brand definition and concept
 © 2026 ARKÈ ΜΟΝΟΣ – AXIS
 All rights reserved.
+# 🜂 ARKÈ ΜΟΝOS
 
+ARKÈ ΜΟΝOS est une famille de logos conceptuels fondée sur les notions grecques :
+- **ἀρχή (arkhè)** — l’origine, le principe premier
+- **μόνος (monos)** — l’un, l’unique, l’indivisible
+
+Ce dépôt constitue l’archive officielle, protégée et cohérente
+des variantes du système ARKÈ ΜΟΝOS.
+
+## Variantes officielles
+
+1. **AXIS** — l’axe fondateur  
+2. **ORIGO** — le point d’émergence  
+3. **NEXUS** — la convergence  
+4. **ASCENSIO** — l’élévation  
+5. **CORE** — le noyau  
+6. **SIGMA** — la clôture  
+7. **GENESIS** — la naissance  
+8. **APEX** — le sommet  
+9. **FRACTUM** — la rupture créatrice  
+10. **MONAD** — l’unité absolue  
+
+Chaque variante possède son propre dépôt contenant :
+- README.md (description)
+- PROTECTION.md (droits)
+- LICENSE.md (licence fermée)
+
+## Propriété intellectuelle
+
+© 2026 **ARKÈ ΜΟΝOS**  
+Tous droits réservés.
+
+Ce projet est **propriétaire**.  
+Il n’est pas open-source.
+
+Aucun droit d’utilisation, de reproduction ou d’exploitation
+n’est accordé sans autorisation écrite préalable.
 This logo and its conceptual design are original works.
 Any reproduction, modification, redistribution, or commercial use
 without explicit written authorization is strictly prohibited.
